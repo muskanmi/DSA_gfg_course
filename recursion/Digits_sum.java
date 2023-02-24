@@ -1,4 +1,4 @@
-package recursion;
+package Recursion;
 
 public class Digits_sum {
     int fun(int n) {

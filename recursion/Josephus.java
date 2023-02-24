@@ -1,4 +1,4 @@
-package recursion;
+package Recursion;
 
 public class Josephus {
     int jos(int n, int k) {

@@ -1,4 +1,4 @@
-package recursion;
+package Recursion;
 
 public class Sum {
     int fun(int n) {

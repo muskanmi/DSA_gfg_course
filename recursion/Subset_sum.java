@@ -1,4 +1,4 @@
-package recursion;
+package Recursion;
 
 public class Subset_sum {
     int countSets(int arr[], int n, int sum) {

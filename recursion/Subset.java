@@ -1,4 +1,4 @@
-package recursion;
+package Recursion;
 
 public class Subset {
     void subsets(String s, String curr, int i) {

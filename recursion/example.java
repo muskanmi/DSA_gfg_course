@@ -1,4 +1,4 @@
-package recursion;
+package Recursion;
 
 public class example {
     static void fun1(int n) {

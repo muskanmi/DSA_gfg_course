@@ -1,4 +1,4 @@
-package recursion;
+package Recursion;
 public class test {
     public static String[] keypad = {".", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tu", "vwx", "yz"};
 

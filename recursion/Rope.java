@@ -1,4 +1,4 @@
-package recursion;
+package Recursion;
 
 public class Rope {
     int maxPieces(int n, int a, int b, int c){

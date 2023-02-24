@@ -1,4 +1,4 @@
-package recursion;
+package Recursion;
 
 public class Hanoi {
     void TOH(int n, char A, char B, char C) {
