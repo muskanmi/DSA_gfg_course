@@ -19,3 +19,7 @@ This is a repository containing various Java Programs to understand the basic co
 * [Mathematics](https://github.com/muskanmi/Data-Structures-Java/tree/main/Mathematics):
 
   Java Codes for solving some basic mathematical problems.
+
+  * [Linked List](https://github.com/muskanmi/Data-Structures-Java/tree/main/LinkedList):
+
+  Java Codes for solving some interview problems on Linked List.
