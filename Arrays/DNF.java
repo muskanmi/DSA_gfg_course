@@ -26,7 +26,7 @@ public class DNF {
                 // If the element is 2
             case 2: {
                 temp = a[mid];
-                a[mid] = a[hi];
+                a[mid] = a[hi]
                 a[hi] = temp;
                 hi--;
                 break;
