@@ -8,6 +8,14 @@ This is a repository containing various Java Programs to understand the basic co
 
   Java Codes for solving some of the Arrays related problems.
 
+* [Searching](https://github.com/muskanmi/Data-Structures-Java/tree/main/Searching):
+
+  Java Codes for various searching algorithms.
+
+* [Sorting](https://github.com/muskanmi/Data-Structures-Java/tree/main/Sorting):
+
+  Java Codes for various sorting algorithms.
+
 * [Recursion](https://github.com/muskanmi/Data-Structures-Java/tree/main/recursion):
 
   Java Codes for solving some problems of recursion.
